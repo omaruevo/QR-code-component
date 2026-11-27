@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/banner.png" alt="QR code component on desktop and mobile" width="100%">
+  <img src="images/banner.svg" alt="QR code component on desktop and mobile" width="100%">
 </p>
 
 <p align="center">
