@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gloomyygl.github.io/QR-code-component/"><b>Live demo</b></a> ·
+  <a href="https://omaruevo.github.io/QR-code-component/"><b>Live demo</b></a> ·
   <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Challenge</a>
 </p>
 
